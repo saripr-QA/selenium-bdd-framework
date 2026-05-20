@@ -12,6 +12,7 @@ public class LoginPage extends BasePage {
 
     private By username = By.name("username");
     private By password = By.name("password");
+    private By invalidcredpopup= By.xpath("//p[text()='Invalid credentials']");
     private By loginBtn = By.xpath("//button[@type='submit']");
 
     public void enterUsername(String user) {
@@ -24,5 +25,10 @@ public class LoginPage extends BasePage {
 
     public void clickLogin() {
         elementUtil.ClickOnElement(loginBtn);
+    }
+
+    public String getInvalidCredentialText() {
+
+        return elementUtil.getText(invalidcredpopup);
     }
 }

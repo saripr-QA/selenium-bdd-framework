@@ -17,21 +17,22 @@ public class LoginStepDef {
     HomePage homePage =
             new HomePage(DriverFactory.getDriver());
 
-    @Given("user launches application")
-    public void user_launches_application() {
+    @Given("user launches browser")
+    public void user_launches_browser() {
 
+        // Browser already launched from Hooks
     }
 
-    @When("user enters username")
-    public void user_enters_username() {
+    @When("user enters username {string}")
+    public void user_enters_username(String username) {
 
-        loginPage.enterUsername("Admin");
+        loginPage.enterUsername(username);
     }
 
-    @And("user enters password")
-    public void user_enters_password() {
+    @And("user enters password {string}")
+    public void user_enters_password(String password) {
 
-        loginPage.enterPassword("admin123");
+        loginPage.enterPassword(password);
     }
 
     @And("user clicks login button")
@@ -40,9 +41,19 @@ public class LoginStepDef {
         loginPage.clickLogin();
     }
 
-    @Then("user should navigate to dashboard")
-    public void user_should_navigate_to_dashboard() {
+    @Then("user should see {string}")
+    public void user_should_see(String expectedResult) {
 
-        Assert.assertTrue(homePage.isDashboardDisplayed());
+        if(expectedResult.equals("Dashboard displayed")) {
+
+            Assert.assertTrue(
+                    homePage.isDashboardDisplayed());
+
+        } else {
+
+            Assert.assertEquals(
+                    loginPage.getInvalidCredentialText(),
+                    expectedResult);
+        }
     }
 }

@@ -1,10 +1,16 @@
-@smoke
-Feature: Login Feature
+@login
+Feature: Login Functionality
 
-  Scenario: Verify user login successfully
+  @smoke @regression
+  Scenario Outline: Verify login functionality
 
-    Given user launches application
-    When user enters username
-    And user enters password
+    Given user launches browser
+    When user enters username "<username>"
+    And user enters password "<password>"
     And user clicks login button
-    Then user should navigate to dashboard
+    Then user should see "<expectedResult>"
+
+    Examples:
+      | username | password | expectedResult                     |
+      | admin1   | admin123 | Invalid credentials                |
+      | admin    | admin123 | Dashboard displayed                |
