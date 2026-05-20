@@ -27,59 +27,59 @@
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000004766719277" />
-      <entry key="S5" value="1.0029599735510575" />
-      <entry key="S10" value="1.0544056389642318" />
-      <entry key="S30" value="1.3789969740107106" />
-      <entry key="S60" value="1.6243165183244839" />
-      <entry key="M2" value="1.8781286064822336" />
-      <entry key="M5" value="2.295145589184245" />
-      <entry key="M10" value="2.575235107179868" />
-      <entry key="M15" value="2.697300416024075" />
-      <entry key="M30" value="2.8378476410502147" />
-      <entry key="H1" value="2.9160081270612244" />
-      <entry key="H2" value="2.9572463667322344" />
-      <entry key="H4" value="2.978430037121515" />
-      <entry key="D1" value="2.9963778583963845" />
-      <entry key="W1" value="2.999481882116716" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.000000000084644" />
+      <entry key="S10" value="1.000009200221335" />
+      <entry key="S30" value="1.0209539590985601" />
+      <entry key="S60" value="1.14475482409426" />
+      <entry key="M2" value="1.3804665873559383" />
+      <entry key="M5" value="1.6794137765010313" />
+      <entry key="M10" value="1.8351421971574213" />
+      <entry key="M15" value="1.9846310927667496" />
+      <entry key="M30" value="2.9633865999293647" />
+      <entry key="H1" value="5.1699006946233075" />
+      <entry key="H2" value="7.646774625050239" />
+      <entry key="H4" value="9.636371804946851" />
+      <entry key="D1" value="13.29616655648351" />
+      <entry key="W1" value="14.712407763936625" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="S10" value="5.5966354895509254E-176" />
+      <entry key="S30" value="5.797634191658708E-59" />
+      <entry key="S60" value="1.070031977815626E-29" />
+      <entry key="M2" value="4.6187004697258596E-15" />
+      <entry key="M5" value="2.794209563143095E-6" />
+      <entry key="M10" value="0.002363832190077303" />
+      <entry key="M15" value="0.022357070979376333" />
+      <entry key="M30" value="0.21145568057887618" />
+      <entry key="H1" value="0.6503151963988353" />
+      <entry key="H2" value="1.1404513293075966" />
+      <entry key="H4" value="1.5102655894905928" />
+      <entry key="D1" value="1.9085368258982485" />
+      <entry key="W1" value="1.9866702490814028" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.7269862586601552" />
-      <entry key="MS500" value="0.9382211965006712" />
-      <entry key="S2" value="0.9841844910041343" />
-      <entry key="S5" value="0.996584085848455" />
-      <entry key="S10" value="1.0510452858824861" />
-      <entry key="S30" value="1.3775228188869495" />
-      <entry key="S60" value="1.6234146856544394" />
-      <entry key="M2" value="1.8774550976528313" />
-      <entry key="M5" value="2.294617586401757" />
-      <entry key="M10" value="2.574870647400569" />
-      <entry key="M15" value="2.697027252989402" />
-      <entry key="M30" value="2.837693424090528" />
-      <entry key="H1" value="2.9159260669114873" />
-      <entry key="H2" value="2.9572040244136453" />
-      <entry key="H4" value="2.9784085281750685" />
-      <entry key="D1" value="2.9963742258105337" />
-      <entry key="W1" value="2.9994813619950293" />
+      <entry key="MS100" value="8.393549012121077E-10" />
+      <entry key="MS500" value="0.015303442149795725" />
+      <entry key="S2" value="0.35172017578168707" />
+      <entry key="S5" value="0.658383461105696" />
+      <entry key="S10" value="0.8114170416046244" />
+      <entry key="S30" value="0.9532941513523266" />
+      <entry key="S60" value="1.1092418431986102" />
+      <entry key="M2" value="1.3615135931803326" />
+      <entry key="M5" value="1.6712669669656128" />
+      <entry key="M10" value="1.8332757536820348" />
+      <entry key="M15" value="2.0040188428190207" />
+      <entry key="M30" value="3.172793585221996" />
+      <entry key="H1" value="5.818552343981554" />
+      <entry key="H2" value="8.786038305658485" />
+      <entry key="H4" value="11.14590858149289" />
+      <entry key="D1" value="15.204555854958253" />
+      <entry key="W1" value="16.699056086011268" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -91,36 +91,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "TestNG.C:/Users/Admin/IdeaProjects/SeleniumBDDFramework/testng.xml.executor": "Run",
-    "TestNG.TestRunner.executor": "Run",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/SeleniumBDDFramework",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Admin/IdeaProjects/untitled/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "terminal",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Cucumber Java.Scenario: Verify login functionality.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/Admin/IdeaProjects/SeleniumBDDFramework/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestRunner.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+=======
+    &quot;git-widget-placeholder&quot;: &quot;feature/dashboard-page&quot;,
+&gt;&gt;&gt;&gt;&gt;&gt;&gt; feature/dashboard-page
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/IdeaProjects/SeleniumBDDFramework&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Admin/IdeaProjects/untitled/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="TestNG.C:/Users/Admin/IdeaProjects/SeleniumBDDFramework/testng.xml">
+}</component>
+  <component name="RunManager" selected="TestNG.TestRunner">
+    <configuration name="Scenario: Verify login functionality" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="7" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/login.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="SeleniumBDDFramework" />
+      <option name="NAME_FILTER" value="^Verify login functionality$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin teamcity --name &quot;^Verify login functionality$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify login functionality" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Users/Admin/IdeaProjects/SeleniumBDDFramework/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumBDDFramework" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -150,8 +174,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/Admin/IdeaProjects/SeleniumBDDFramework/testng.xml" />
         <item itemvalue="TestNG.TestRunner" />
+        <item itemvalue="Cucumber Java.Scenario: Verify login functionality" />
+        <item itemvalue="TestNG.C:/Users/Admin/IdeaProjects/SeleniumBDDFramework/testng.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +197,7 @@
       <updated>1778999130278</updated>
       <workItem from="1778999133465" duration="195000" />
       <workItem from="1778999543647" duration="7136000" />
-      <workItem from="1779010068384" duration="9207000" />
+      <workItem from="1779010068384" duration="16595000" />
     </task>
     <servers />
   </component>
@@ -186,6 +211,20 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepdefinitions/LoginStepDef.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/stepdefinitions/LoginStepDef.java</url>
+          <line>44</line>
+          <properties class="stepdefinitions.LoginStepDef" method="user_should_see">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
