@@ -26,60 +26,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.000000000084644" />
-      <entry key="S10" value="1.000009200221335" />
-      <entry key="S30" value="1.0209539590985601" />
-      <entry key="S60" value="1.14475482409426" />
-      <entry key="M2" value="1.3804665873559383" />
-      <entry key="M5" value="1.6794137765010313" />
-      <entry key="M10" value="1.8351421971574213" />
-      <entry key="M15" value="1.9846310927667496" />
-      <entry key="M30" value="2.9633865999293647" />
-      <entry key="H1" value="5.1699006946233075" />
-      <entry key="H2" value="7.646774625050239" />
-      <entry key="H4" value="9.636371804946851" />
-      <entry key="D1" value="13.29616655648351" />
-      <entry key="W1" value="14.712407763936625" />
+      <entry key="MS500" value="1.0001738486906575" />
+      <entry key="S2" value="1.1441994467681509" />
+      <entry key="S5" value="1.7320296494503036" />
+      <entry key="S10" value="2.650204535829854" />
+      <entry key="S30" value="4.655003970870682" />
+      <entry key="S60" value="5.645085720263457" />
+      <entry key="M2" value="6.268780002928674" />
+      <entry key="M5" value="6.693389140649628" />
+      <entry key="M10" value="6.844230755327592" />
+      <entry key="M15" value="6.895597855303277" />
+      <entry key="M30" value="6.947518788534494" />
+      <entry key="H1" value="6.973724965493893" />
+      <entry key="H2" value="7.0070086474128335" />
+      <entry key="H4" value="7.488465403209157" />
+      <entry key="D1" value="15.105710445146354" />
+      <entry key="W1" value="20.708253872858112" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
-      <entry key="S10" value="5.5966354895509254E-176" />
-      <entry key="S30" value="5.797634191658708E-59" />
-      <entry key="S60" value="1.070031977815626E-29" />
-      <entry key="M2" value="4.6187004697258596E-15" />
-      <entry key="M5" value="2.794209563143095E-6" />
-      <entry key="M10" value="0.002363832190077303" />
-      <entry key="M15" value="0.022357070979376333" />
-      <entry key="M30" value="0.21145568057887618" />
-      <entry key="H1" value="0.6503151963988353" />
-      <entry key="H2" value="1.1404513293075966" />
-      <entry key="H4" value="1.5102655894905928" />
-      <entry key="D1" value="1.9085368258982485" />
-      <entry key="W1" value="1.9866702490814028" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="8.983743241673169E-170" />
+      <entry key="M5" value="3.6461454371357034E-68" />
+      <entry key="M10" value="2.7002510834563037E-34" />
+      <entry key="M15" value="5.2634832269073827E-23" />
+      <entry key="M30" value="1.0260027514719551E-11" />
+      <entry key="H1" value="4.529898666980349E-6" />
+      <entry key="H2" value="0.003009948382571629" />
+      <entry key="H4" value="0.07758798505493555" />
+      <entry key="D1" value="1.1636545408883838" />
+      <entry key="W1" value="1.8510968798164613" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="8.393549012121077E-10" />
-      <entry key="MS500" value="0.015303442149795725" />
-      <entry key="S2" value="0.35172017578168707" />
-      <entry key="S5" value="0.658383461105696" />
-      <entry key="S10" value="0.8114170416046244" />
-      <entry key="S30" value="0.9532941513523266" />
-      <entry key="S60" value="1.1092418431986102" />
-      <entry key="M2" value="1.3615135931803326" />
-      <entry key="M5" value="1.6712669669656128" />
-      <entry key="M10" value="1.8332757536820348" />
-      <entry key="M15" value="2.0040188428190207" />
-      <entry key="M30" value="3.172793585221996" />
-      <entry key="H1" value="5.818552343981554" />
-      <entry key="H2" value="8.786038305658485" />
-      <entry key="H4" value="11.14590858149289" />
-      <entry key="D1" value="15.204555854958253" />
-      <entry key="W1" value="16.699056086011268" />
+      <entry key="MS100" value="1.5638099945814945E-13" />
+      <entry key="MS500" value="0.0027493374425723903" />
+      <entry key="S2" value="0.28408005777352313" />
+      <entry key="S5" value="1.0797568438126177" />
+      <entry key="S10" value="2.1816530320908725" />
+      <entry key="S30" value="4.422663292000919" />
+      <entry key="S60" value="5.5116697065314675" />
+      <entry key="M2" value="6.196722801096648" />
+      <entry key="M5" value="6.6631179696280505" />
+      <entry key="M10" value="6.828838504600649" />
+      <entry key="M15" value="6.885278124527377" />
+      <entry key="M30" value="6.942329503435366" />
+      <entry key="H1" value="6.971127428621968" />
+      <entry key="H2" value="7.00871257326809" />
+      <entry key="H4" value="7.565364036397552" />
+      <entry key="D1" value="16.269166320574083" />
+      <entry key="W1" value="22.559314789487125" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -140,6 +140,21 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="true" type="ShConfigurationType">
+      <option name="SCRIPT_TEXT" value="" />
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="false" />
+      <option name="INTERPRETER_PATH" value="&quot;$PROJECT_DIR$/../../../../Program Files/Git/bin/bash.exe&quot;" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="EXECUTE_IN_TERMINAL" value="true" />
+      <option name="EXECUTE_SCRIPT_FILE" value="true" />
+      <envs />
+      <method v="2" />
     </configuration>
     <configuration name="C:/Users/Admin/IdeaProjects/SeleniumBDDFramework/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumBDDFramework" />
@@ -216,7 +231,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/stepdefinitions/LoginStepDef.java</url>
           <line>44</line>
-          <properties class="stepdefinitions.LoginStepDef">
+          <properties class="stepdefinitions.LoginStepDef" method="user_should_see">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
