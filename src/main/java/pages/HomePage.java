@@ -11,8 +11,13 @@ public class HomePage extends BasePage {
     }
 
     private By dashboardText = By.xpath("//h6[text()='Dashboard']");
+    private By dashboardLogo = By.xpath("//h6[text()='Dashboard']");
 
     public boolean isDashboardDisplayed() {
         return elementUtil.getElement(dashboardText).isDisplayed();
+    }
+
+    public void validateDashboard() {
+
     }
 }
